@@ -1,6 +1,6 @@
 # DATABASE_CHOICE.md
 
-## Your Choice
+## My Choice
 **Azure Cosmos DB (NoSQL API – Serverless tier)**
 
 ## Justification
