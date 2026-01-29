@@ -1,7 +1,8 @@
 # Lab 1: Create and Deploy Your First Azure Function
-# CST8917 - Serverless Applications | Winter 2026
+# CST8917 - Serverless Applications
+Sandra rochelle nyabeng mineme
 
-# Azure Serverless Text Analyzer
+### Azure Serverless Text Analyzer
 
 This project is an Azure Functions (Python) serverless application that analyzes text input and stores analysis results as JSON documents in Azure Cosmos DB (NoSQL, Serverless). It also provides an endpoint to retrieve past analysis results.
 
